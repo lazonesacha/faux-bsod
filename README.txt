@@ -1,0 +1,1 @@
+pour lancer le bsod cliquez deux fois et pour en sortire faites alt+f4 ou sinon fn+alt+f4
